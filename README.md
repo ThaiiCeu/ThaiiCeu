@@ -9,7 +9,7 @@
 #
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThaiiCeu&theme=radical&show_icons=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThaiiCeu&theme=radical&show_icons=true&count_private=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThaiiCeu&theme=radical&layout=compact" height="150" alt="languages graph"  />
 </div>
 
