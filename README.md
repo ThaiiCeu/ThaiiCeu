@@ -1,9 +1,12 @@
 <h2 align="center">Olá! Meu nome é Thaii, bem-vinde ao meu perfil! ^-^ </h2>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
-<br><br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <br><br>
+</div>
 
 #
+
 <h3 align="center">
   Tenho 21 anos, sou uma mulher trans determinada e sempre em busca de mais conhecimento. 
   Atualmente, estudo na Unesp (Estatística) e pretendo virar uma mega profissional na minha área. 
@@ -19,7 +22,9 @@
 
 #
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="funny gif" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
+<br><br>
+
 
 <h3 align="left">Habilidades</h3>
 <div align="left">
