@@ -16,9 +16,10 @@
 #
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThaiiCeu&theme=radical&show_icons=true&local=en&count_private=true&include_all_commits=true&disable_animations=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThaiiCeu&local=en&theme=radical&layout=compact&disable_animations=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThaiiCeu&theme=radical&show_icons=true&local=en&count_private=true&include_all_commits=true&disable_animations=false&cache_seconds=1800" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThaiiCeu&local=en&theme=radical&layout=compact&disable_animations=false&cache_seconds=1800" height="150" alt="languages graph"  />
 </div>
+
 
 #
 
