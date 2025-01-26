@@ -8,9 +8,11 @@
 #
 
 <h3 align="center">
-  Tenho 21 anos, sou uma mulher trans determinada e sempre em busca de mais conhecimento. 
-  Atualmente, estudo na Unesp (Estatística) e pretendo virar uma mega profissional na minha área. 
-  Estou focada em ser Analista de Dados, mas me fascina cada uma das outras áreas.
+  Sou graduanda em Estatística pela UNESP, com sólida experiência em análise de dados, modelagem preditiva e
+visualização de dados. Possuo habilidades avançadas em R e em aprendizado de Python, SQL e Power BI,
+além de experiência prática em projetos de Machine Learning e análise exploratória de dados. Busco uma
+oportunidade como Analista de Dados ou Cientista de Dados (estágio) para transformar dados em insights
+estratégicos e impactar decisões organizacionais.
 </h3>
 
 #
