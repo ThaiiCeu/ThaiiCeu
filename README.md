@@ -10,9 +10,7 @@
 <h3 align="center">
   Sou graduanda em Estatística pela UNESP, com sólida experiência em análise de dados, modelagem preditiva e
 visualização de dados. Possuo habilidades avançadas em R e em aprendizado de Python, SQL e Power BI,
-além de experiência prática em projetos de Machine Learning e análise exploratória de dados. Busco uma
-oportunidade como Analista de Dados ou Cientista de Dados (estágio) para transformar dados em insights
-estratégicos e impactar decisões organizacionais.
+além de experiência prática em projetos de Machine Learning e análise exploratória de dados.
 </h3>
 
 #
