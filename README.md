@@ -7,7 +7,7 @@ Graduanda em Estatística pela UNESP e estagiária de Data Analytics na [Ilumeo]
 Meu foco é transformar dados em respostas claras: da coleta e limpeza à modelagem, validação e comunicação dos resultados. Tenho interesse especial em estatística aplicada à saúde, modelos de regressão, séries temporais e visualização de dados.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaii-c%C3%A9u-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%E2%9A%A7%EF%B8%8F-9a9374184/)
-[![E-mail](https://img.shields.io/badge/E--mail-thaii.ceu%40unesp.br-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thaii.ceu@unesp.br)
+[![E-mail](https://img.shields.io/badge/E--mail-thaii.ceu%40unesp.br-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thaii.ceu.santos@gmail.com)
 
 ---
 
